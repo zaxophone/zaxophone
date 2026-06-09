@@ -1,4 +1,4 @@
-### Welcome
+### Welcome!
 
 <!--
 **zaxophone/zaxophone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- My name is Isaac; I am currently taking a Bachelor of Computer Science at UBC (2027).  
+- I'm working with the [Folklore vivant](https://github.com/chanson-project) project at UBC Music on music encoding, corpus analysis and web development.  
