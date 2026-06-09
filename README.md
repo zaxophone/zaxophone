@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 - My name is Isaac; I am currently taking a Bachelor of Computer Science at UBC (2027).  
 - I'm working with the [Folklore vivant](https://github.com/chanson-project) project at UBC Music on music encoding, corpus analysis and web development.  
+- I am interested in hardware and have worked on a `(subset of Racket) -> x64` compiler project in Racket, and various projects in SystemVerilog for the DE1-SoC at UBC.  
